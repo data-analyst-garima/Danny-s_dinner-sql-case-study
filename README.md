@@ -1,2 +1,2 @@
 # Danny-s_dinner-sql-case-study
-This project involves analyzing sales data for a restaurant using SQL, focusing on customer purchases, membership details, and points tracking based on business rules. The data is organized into multiple tables, including sales, menu, and members, and various SQL operations are used to answer business questions related to customer behavior, item popularity, and rewards :)
+This project analyzes a restaurant's sales data using SQL, focusing on customer purchases. The data is organized into multiple tables, including sales, menu, and members, and various SQL operations are used to answer business questions related to customer behavior, item popularity, and rewards :)
